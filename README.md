@@ -1,1 +1,1 @@
-"# ai-image-generator" 
+**AI Image Generator Mini Project:** Developed a Python-based AI image generator using GANs (Generative Adversarial Networks) to create high-quality, realistic images. Implemented deep learning techniques with TensorFlow and Keras to train the model on a dataset of images, achieving visually appealing results.
